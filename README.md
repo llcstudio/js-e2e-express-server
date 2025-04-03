@@ -9,6 +9,8 @@ products:
 - azure
 - vs-code
 ---
+[![Build Status](https://dev.azure.com/LLCStudio/%E7%BF%BB%E8%AF%91%E9%AD%94%E6%B3%95%E9%97%AE%E9%A2%98/_apis/build/status%2Fllcstudio.js-e2e-express-server?branchName=main)](https://dev.azure.com/LLCStudio/%E7%BF%BB%E8%AF%91%E9%AD%94%E6%B3%95%E9%97%AE%E9%A2%98/_build/latest?definitionId=9&branchName=main)
+
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
